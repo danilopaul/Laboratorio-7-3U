@@ -152,7 +152,7 @@ d.- ¿Qué son los valores eficaces de voltaje y corriente?
 
 - Los capacitores se usan junto con las bobinas, conformando circuitos en resonancia, en las radios y otros conjuntos electrónicos; Además, en los tendidos eléctricos se aplican enormes capacitores para generar resonancia eléctrica en el cable y permitir la transmisión de más potencia. Los inductores y capacitores son recursos lineales, pasivos los cuales absorben energía del circuito, almacenan esta energía temporeramente y después la devuelven al circuito. Por esta razón son denominados recursos de almacenaje de energía.  
 
-- Para finalizar, se ha podido mirar evidentemente que mientras la frecuencia se incrementa la reactancia de la bobina incrementó, gracias a una disminución de la corriente, junto con un crecimiento en la tensión del inductor. Esto se debería a que el índice de cambio instantáneo de la corriente se incrementa, aumentando el costo de la tensión de la bobina, de la misma forma que la inductancia se incrementa, oponiéndose de esta forma al paso de corriente en la bobina. 
+- Para finalizar, se ha podido observar que mientras la frecuencia se incrementa por lo tanto la reactancia de la bobina incrementó, gracias a una disminución de la corriente, junto con un crecimiento en la tensión del inductor. Esto se debería a que el índice de cambio instantáneo de la corriente se incrementa, aumentando el costo de la tensión de la bobina, de la misma forma que la inductancia se incrementa, oponiéndose de esta forma al paso de corriente en la bobina. 
 
 8. Bibliografía
 
