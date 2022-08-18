@@ -41,17 +41,117 @@ Determinar la función que cumplen las bobinas y capacitores tanto en circuitos 
 
 5. Resolución
 
+                                                      Construya en el protoboard el circuito mostrado en la Figura 1.
+
+a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
+
+- 0Hz
+
+- 10Hz
+
+- 50Hz
+
+- 100Hz
+
+- 500Hz
+
+- 1000Hz
+
+b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+- 0Hz
+
+- 10Hz
+
+- 50Hz
+
+- 100Hz
+
+- 500Hz
+
+- 1000Hz
+
+c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+- 0Hz
+
+- 10Hz
+
+- 50Hz
+
+- 100Hz
+
+- 500Hz
+
+- 1000Hz
+
+
+                                                     Construya en el protoboard el circuito mostrado en la Figura 2.
+
+a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
+
+- 0Hz
+
+- 10Hz
+
+- 50Hz
+
+- 100Hz
+
+- 500Hz
+
+- 1000Hz
+
+b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+- 0Hz
+
+- 10Hz
+
+- 50Hz
+
+- 100Hz
+
+- 500Hz
+
+- 1000Hz
+
+c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+- 0Hz
+
+- 10Hz
+
+- 50Hz
+
+- 100Hz
+
+- 500Hz
+
+- 1000Hz
 
 6. Video
 
+                                                                   Análisis de resultados
+
+tabla
+                                                                          Preguntas
+
+a.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+
+b.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+
+c.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+
+d.- ¿Qué son los valores eficaces de voltaje y corriente?
 
 7. Conclusiones
 
-- Se ha pidido concluir que la transferencia de potencia máxima no coincide con la eficiencia máxima. La aplicación del teorema de la máxima transferencia de energía a el reparto de energía de CA no dará como consecuencia una eficiencia máxima; Sino mas bien la finalidad de la alta eficiencia es más relevante para el reparto de energía de CA, que dicta una impedancia del generador subjetivamente baja comparativamente con la impedancia de carga. 
+- Tenemos la posibilidad de concluir mencionando que los capacitores tienen la posibilidad de conducir corriente continua a lo largo de únicamente un momento (por lo que tenemos la posibilidad de mencionar que los capacitores, para las señales sucesivas, es como un cortocircuito), aunque funcionan bien como conductores en circuitos de corriente alterna. Es por esta propiedad que son considerados dispositivos bastante útiles una vez que se debería impedir que la corriente continua entre a definida parte de un circuito eléctrico. 
 
-- También se ha expuesto a detalle el proceso de aplicación del Teorema de transferencia de potencia máxima, resumida en el marco teórico por medio de cuatro pasos, mismo que hacen uso de la formula de este teorema; Cave recalcar que para obtener los calculos realizados es necesario tener conocimiento de las leyes básicas de circuitos y las características principales de los circuitos en serie y/o paralelo, juntamento en como afecta esto a los componentes del circuito.
+- Los capacitores se usan junto con las bobinas, conformando circuitos en resonancia, en las radios y otros conjuntos electrónicos; Además, en los tendidos eléctricos se aplican enormes capacitores para generar resonancia eléctrica en el cable y permitir la transmisión de más potencia. Los inductores y capacitores son recursos lineales, pasivos los cuales absorben energía del circuito, almacenan esta energía temporeramente y después la devuelven al circuito. Por esta razón son denominados recursos de almacenaje de energía.  
 
-- Para finalizar, el teorema de transferencia de potencia máxima no es tanto un medio de estudio como una ayuda para el diseño del sistema, es decir, la porción máxima de energía se disipará por una resistencia de carga una vez que dicha resistencia de carga sea igual a la resistencia de Thevenin/Norton de la red que suministra la energía.
+- Para finalizar, se ha podido mirar evidentemente que mientras la frecuencia se incrementa la reactancia de la bobina incrementó, gracias a una disminución de la corriente, junto con un crecimiento en la tensión del inductor. Esto se debería a que el índice de cambio instantáneo de la corriente se incrementa, aumentando el costo de la tensión de la bobina, de la misma forma que la inductancia se incrementa, oponiéndose de esta forma al paso de corriente en la bobina. 
 
 8. Bibliografía
 
