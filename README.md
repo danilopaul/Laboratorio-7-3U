@@ -135,6 +135,7 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
                                                                    Análisis de resultados
 
 tabla
+
                                                                           Preguntas
 
 a.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
