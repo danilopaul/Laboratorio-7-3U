@@ -11,7 +11,7 @@ Integrantes:
 
 1.1. Objetivos General:
 
-Determinar la función que cumplen las bobinas y capacitores tanto en circuitos de tipo DC y AC, para poder diferenciar y reconocer su comportamiento al estar en serie y/o paralelo con el fin de poder ensamblar adecuadamente el esquema del circuito en el simulador y comprobar que los cálculos realizados concuerden con los datos que arroje el simulador.
+Determinar la función que cumplen las bobinas y capacitores tanto en circuitos de tipo DC y AC, para poder diferenciar y reconocer su comportamiento al estar en serie y/o paralelo con el fin de poder ensamblar adecuadamente el esquema del circuito en el simulador y recopilar los datos que arroje el simulador.
 
 1.2. Objetivos especificos:
 
