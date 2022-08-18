@@ -161,20 +161,6 @@ b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre lo
 
 - 0Hz
 
-- 10Hz
-
-- 50Hz
-
-- 100Hz
-
-- 500Hz
-
-- 1000Hz
-
-c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
-
-- 0Hz
-
 ![image](https://user-images.githubusercontent.com/105687213/185300204-b6e54157-ac04-42b1-90bd-0a3495590429.png)
 
 - 10Hz
@@ -197,11 +183,35 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 
 ![image](https://user-images.githubusercontent.com/105687213/185301507-6719bf10-a988-453b-80c6-8fb0d4e2a333.png)
 
+c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+- 0Hz
+
+
+- 10Hz
+
+
+- 50Hz
+
+
+- 100Hz
+
+
+- 500Hz
+
+
+- 1000Hz
+
+
 6. Video
 
                                                     Análisis de resultados
 
-tabla
+- Tabla de la Figura 1:
+
+![image](https://user-images.githubusercontent.com/105684550/185302439-c2fb307a-f028-419c-a22a-b550ac094895.png)
+
+- Tabla de la Figfura 2:
 
                                                            Preguntas
 
