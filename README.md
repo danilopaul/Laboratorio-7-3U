@@ -33,21 +33,7 @@ Determinar la función que cumplen las bobinas y capacitores tanto en circuitos 
 
 4. Materiales y equipos requeridos
 
-- Laboratorio virtual ACDCLab
-
-- Generador de señales
-
-- Fuente DC
-
-- Osciloscopio
-
-- Protoboard
-
-- Multímetro
-
-- Cables conductores
-
-- Resistencias, bobinas y capacitores
+![image](https://user-images.githubusercontent.com/105684550/185282308-e05b7a90-870e-450b-a6ef-31bccdec31dd.png)
 
 5. Resolución
 
