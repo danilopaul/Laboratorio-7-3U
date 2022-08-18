@@ -11,7 +11,7 @@ Integrantes:
 
 1.1. Objetivos General:
 
-Determinar la fórmula y el proceso que con lleva el Teorema de transferencia de potencia máxima en conjunto con sus características principales, para poder aplicarlo en la simplificación y resolución del ejercicio planteado para finalizar con la verificación del proceso por medio del correcto uso de las leyes fundamentales (ley de ohm y Kirchhoff).
+Determinar la función que cumplen las bobinas y capacitores tanto en circuitos de tipo DC y AC, para poder diferenciar y reconocer su comportamiento al estar en serie y/o paralelo con el fin de poder ensamblar adecuadamente el esquema del circuito en el simulador y comprobar que los calculos realizados concuerden con los datos que arroje el simulador.
 
 1.2. OBjetivos especificos:
 
