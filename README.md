@@ -27,8 +27,8 @@ Determinar la función que cumplen las bobinas y capacitores tanto en circuitos 
 
 2. Marco Teorico:
 
+![image](https://user-images.githubusercontent.com/105684550/185288542-6603c95d-7f9a-46ac-b726-5d13c0ffddc1.png)
 ![image](https://user-images.githubusercontent.com/105684550/185279730-1e9b424a-f443-4d99-bd60-84deabd4ae80.png)
-![image](https://user-images.githubusercontent.com/105684550/185279735-589ae8b4-e887-4082-acf4-e033bfc7e24c.png)
 
 3. Requisitos Previos:
 
