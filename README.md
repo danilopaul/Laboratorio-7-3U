@@ -33,7 +33,7 @@ Determinar la función que cumplen las bobinas y capacitores tanto en circuitos 
 
 4. Materiales y equipos requeridos
 
-![image](https://user-images.githubusercontent.com/105684550/185282308-e05b7a90-870e-450b-a6ef-31bccdec31dd.png)
+![image](https://user-images.githubusercontent.com/105684550/185283908-3eea8d56-1cf5-420e-bcf6-a30821f9108d.png)
 
 5. Resolución
 
