@@ -15,11 +15,13 @@ Determinar la fórmula y el proceso que con lleva el Teorema de transferencia de
 
 1.2. OBjetivos especificos:
 
-- Identificar la relación existente o no existente entre el teorema de transferencia máxima de potencia con la eficiencia en una distribución de energía de CA.
+- Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
 
--Definir los pasos o el proceso a seguir para aplicar el Teorema de transferencia máxima de potencia de la manera adecuada.
+- Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
 
--Exponer el papel que ocupa una resistencia de carga en la aplicación del teorema de transferencia de potencia máxima, y como este llega a ser de gran importancia.
+- Verificar las combinaciones serie y paralelo de bobinas y capacitores.
+
+- Familiarizarse con el uso de instrumentos de medida.
 
 2. Marco Teorico:
 
