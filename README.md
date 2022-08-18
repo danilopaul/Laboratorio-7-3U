@@ -41,7 +41,7 @@ Determinar la función que cumplen las bobinas y capacitores tanto en circuitos 
 
 5. Resolución
 
-                                                      Construya en el protoboard el circuito mostrado en la Figura 1.
+                                            Construya en el protoboard el circuito mostrado en la Figura 1.
 
 a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
 
@@ -86,7 +86,7 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 - 1000Hz
 
 
-                                                     Construya en el protoboard el circuito mostrado en la Figura 2.
+                                              Construya en el protoboard el circuito mostrado en la Figura 2.
 
 a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
 
@@ -132,11 +132,11 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 
 6. Video
 
-                                                                   Análisis de resultados
+                                                        Análisis de resultados
 
 tabla
 
-                                                                          Preguntas
+                                                               Preguntas
 
 a.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
