@@ -105,13 +105,23 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 
 - 0Hz
 
+![image](https://user-images.githubusercontent.com/105684550/185299480-41fb4842-041f-499c-96a2-e1908b6caebb.png)
+
 - 10Hz
+
+![image](https://user-images.githubusercontent.com/105684550/185299496-d77b704c-9529-4462-97e5-1901ebbdc1db.png)
 
 - 50Hz
 
+![image](https://user-images.githubusercontent.com/105684550/185299505-c235bcdd-463a-40f7-a381-544f484afde1.png)
+
 - 100Hz
 
+![image](https://user-images.githubusercontent.com/105684550/185299517-65193338-61ca-465a-9f80-8f698066d78b.png)
+
 - 500Hz
+
+![image](https://user-images.githubusercontent.com/105684550/185299537-f484b109-27ee-40ed-9385-6b9b89c346f8.png)
 
 - 1000Hz
 
