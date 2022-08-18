@@ -35,11 +35,12 @@ Determinar la función que cumplen las bobinas y capacitores tanto en circuitos 
 - Figura 1:
 
 ![image](https://user-images.githubusercontent.com/105684550/185285053-d636a09c-fb7d-4d84-8a3d-01141cd7e028.png)
+![image](https://user-images.githubusercontent.com/105687213/185300356-619a6ac5-782e-452b-b284-589a69291e73.png)
 
 - Figura 2:
 
 ![image](https://user-images.githubusercontent.com/105684550/185285133-1ac54b30-e0a0-4af7-9ca6-d46951d4fa79.png)
-![image](https://user-images.githubusercontent.com/105684550/185299185-1c95353a-8504-4702-ad67-4af455e9bb3e.png)
+![image](https://user-images.githubusercontent.com/105687213/185300309-e05e616d-cd16-4e99-98fe-befabfbe6d13.png)
 
 4. Materiales y equipos requeridos
 
@@ -47,7 +48,7 @@ Determinar la función que cumplen las bobinas y capacitores tanto en circuitos 
 
 5. Resolución
 
-                                            Construya en el protoboard el circuito mostrado en la Figura 1.
+                                         Construya en el protoboard el circuito mostrado en la Figura 1.
 
 a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
 
@@ -128,21 +129,33 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 ![image](https://user-images.githubusercontent.com/105684550/185299310-dfe5bfc7-e606-4a4a-8061-583d31f5d1ef.png)
 
 
-                                              Construya en el protoboard el circuito mostrado en la Figura 2.
+                                         Construya en el protoboard el circuito mostrado en la Figura 2.
 
 a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
 
 - 0Hz
 
+![image](https://user-images.githubusercontent.com/105687213/185301580-5e313757-a482-48a1-8084-a4e97474d6dc.png)
+
 - 10Hz
+
+![image](https://user-images.githubusercontent.com/105687213/185301610-9d9b55ed-c030-4c1d-8db7-c18e68eb880d.png)
 
 - 50Hz
 
+![image](https://user-images.githubusercontent.com/105687213/185301639-092b60b0-3353-4511-883f-864ee3a87656.png)
+
 - 100Hz
+
+![image](https://user-images.githubusercontent.com/105687213/185301671-7511995a-e73e-4b88-a299-ade009c6babc.png)
 
 - 500Hz
 
+![image](https://user-images.githubusercontent.com/105687213/185301700-71c11955-2352-4d22-9c55-fb240521074b.png)
+
 - 1000Hz
+
+![image](https://user-images.githubusercontent.com/105687213/185301730-b52cb44f-cf85-42d7-96db-b4eee46608ec.png)
 
 b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
@@ -162,23 +175,35 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 
 - 0Hz
 
+![image](https://user-images.githubusercontent.com/105687213/185300204-b6e54157-ac04-42b1-90bd-0a3495590429.png)
+
 - 10Hz
+
+![image](https://user-images.githubusercontent.com/105687213/185300625-ac7e2d2d-88e0-470f-80d6-23f0c138968d.png)
 
 - 50Hz
 
+![image](https://user-images.githubusercontent.com/105687213/185300961-cca5e034-997e-487b-aa70-5cb7415aab66.png)
+
 - 100Hz
+
+![image](https://user-images.githubusercontent.com/105687213/185301250-be59b7ee-5a31-40c2-8848-61e3fecbdccc.png)
 
 - 500Hz
 
+![image](https://user-images.githubusercontent.com/105687213/185301358-065d961f-ca68-4658-80a9-ea674776bfc7.png)
+
 - 1000Hz
+
+![image](https://user-images.githubusercontent.com/105687213/185301507-6719bf10-a988-453b-80c6-8fb0d4e2a333.png)
 
 6. Video
 
-                                                        Análisis de resultados
+                                                    Análisis de resultados
 
 tabla
 
-                                                               Preguntas
+                                                           Preguntas
 
 a.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
