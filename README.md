@@ -209,7 +209,9 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 
 ![image](https://user-images.githubusercontent.com/105684550/185309343-17b5a181-5363-4b75-a4b8-f643c946308e.png)
 
-6. Video
+6. Video:
+
+https://youtu.be/WMIFtCdma8g
 
                                                     Análisis de resultados
 
@@ -221,15 +223,28 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 
 ![image](https://user-images.githubusercontent.com/105684550/185309721-c4fda3cb-2c14-463d-9381-d747e3315306.png)
 
+•	Como se puede observar, en los datos registrados en las tablas de los circuitos respectivamente, los valores del voltaje son diferentes, ya que como se conoce los multímetros no dan el voltaje pico, motivo por el cual los valores son distintos a los voltajes picos obtenidos mediante el osciloscopio, ya que los multímetros dan el valor efectivo o voltaje (Vrms), por otro parte un osciloscopio nos permite obtener el valor del voltaje pico o Vp.
+
+
                                                            Preguntas
 
 a.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
+Cuando se aplica corriente continua, es decir que no varía con el tiempo, se comporta como un corto circuito y permite el paso de la corriente a través de esta sin ninguna oposición.
+
 b.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+
+Una bobina, cuando se le aplica un voltaje de corriente alterna, se produce un campo magnético que varía continuamente, por ello, existe también un voltaje contrario inducido permanente en oposición a la corriente alterna principal.
+
+Cuando se aplica una fuente de voltaje alterna un capacitor se comporta como un circuito abierto para todos los casos, es decir cambia el voltaje en las placas, respecto al cambio del voltaje de la fuente, de igual manera cambia la carga de las placas del capacitor.
 
 c.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
+En ambos circuitos analizados, se pudo observar que se utilizan capacitores y bobinas iguales, pero en el caso del ser diferentes, ya sea el un mayor respecto al otro, el voltaje y la corriente van a variar un poco, es decir que va a aumentar o disminuir, sin embargo, la corriente se va a mantener constante. 
+
 d.- ¿Qué son los valores eficaces de voltaje y corriente?
+
+Se define como valor eficaz de una corriente alterna como el valor que, llevado a corriente continua, nos produce los mismos efectos calóricos, es decir, que es el valor que tendrá una corriente continua que produce la misma potencia que dicha corriente, al aplicar primero una y luego otra, esto sobre una misma resistencia. Estos valores son aplicables tanto para voltajes, como para la corriente y potencias.
 
 7. Conclusiones
 
@@ -242,3 +257,6 @@ d.- ¿Qué son los valores eficaces de voltaje y corriente?
 8. Bibliografía
 
 Floyd, TL (2007). Principios de Circuitos Eléctricos. CDMX: Persona Educación.
+
+Fundamnetos de Electricidad. (31 de Julio de 2017). Master de Formacion. Obtenido de https://ingemecanica.com/tutorialsemanal/objetos/tutorial85/doc13tut85.pdf
+
