@@ -32,8 +32,14 @@ Determinar la función que cumplen las bobinas y capacitores tanto en circuitos 
 
 3. Requisitos Previos:
 
+- Figura 1:
+
 ![image](https://user-images.githubusercontent.com/105684550/185285053-d636a09c-fb7d-4d84-8a3d-01141cd7e028.png)
+
+- Figura 2:
+
 ![image](https://user-images.githubusercontent.com/105684550/185285133-1ac54b30-e0a0-4af7-9ca6-d46951d4fa79.png)
+![image](https://user-images.githubusercontent.com/105684550/185299185-1c95353a-8504-4702-ad67-4af455e9bb3e.png)
 
 4. Materiales y equipos requeridos
 
@@ -47,29 +53,53 @@ a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entr
 
 - 0Hz
 
+![image](https://user-images.githubusercontent.com/105684550/185299010-f8887f3c-3c7e-48c1-8c5a-e2f5a2f7c62d.png)
+
 - 10Hz
+
+![image](https://user-images.githubusercontent.com/105684550/185299027-ff359256-23f9-4635-9675-25fe40b36452.png)
 
 - 50Hz
 
+![image](https://user-images.githubusercontent.com/105684550/185299044-1a8f5df8-0a16-44c3-bb8a-6e9fb9b44cac.png)
+
 - 100Hz
+
+![image](https://user-images.githubusercontent.com/105684550/185299051-f0e9f893-c68f-4b41-8fca-68717408d00d.png)
 
 - 500Hz
 
+![image](https://user-images.githubusercontent.com/105684550/185299075-48247813-4cd7-4715-9e8d-efd3732ab519.png)
+
 - 1000Hz
+
+![image](https://user-images.githubusercontent.com/105684550/185299271-346137ac-b4f5-4964-a92b-2799f7008c52.png)
 
 b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 - 0Hz
 
+![image](https://user-images.githubusercontent.com/105684550/185298870-2c089639-54ef-420c-8de4-3f8298e5df73.png)
+
 - 10Hz
+
+![image](https://user-images.githubusercontent.com/105684550/185298908-895bfe43-9069-4487-b825-2ce20ed61052.png)
 
 - 50Hz
 
+![image](https://user-images.githubusercontent.com/105684550/185298922-4a57524c-c6c5-408e-a484-bddd046420a0.png)
+
 - 100Hz
+
+![image](https://user-images.githubusercontent.com/105684550/185298935-603127ac-3a74-42f2-a669-deab20ad0f75.png)
 
 - 500Hz
 
+![image](https://user-images.githubusercontent.com/105684550/185298964-76c9449f-cd4f-43c8-aa56-3d5274a94dc9.png)
+
 - 1000Hz
+
+![image](https://user-images.githubusercontent.com/105684550/185299295-7a0e7ac0-9325-402e-80de-78f90293d25f.png)
 
 c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
@@ -84,6 +114,8 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 - 500Hz
 
 - 1000Hz
+
+![image](https://user-images.githubusercontent.com/105684550/185299310-dfe5bfc7-e606-4a4a-8061-583d31f5d1ef.png)
 
 
                                               Construya en el protoboard el circuito mostrado en la Figura 2.
