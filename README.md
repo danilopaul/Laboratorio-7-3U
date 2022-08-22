@@ -30,7 +30,7 @@ Determinar la función que cumplen las bobinas y capacitores tanto en circuitos 
 ![image](https://user-images.githubusercontent.com/105684550/185288542-6603c95d-7f9a-46ac-b726-5d13c0ffddc1.png)
 ![image](https://user-images.githubusercontent.com/105684550/185279730-1e9b424a-f443-4d99-bd60-84deabd4ae80.png)
 
-3. Requisitos Previos:
+3. Requisitos Previos: 
 
 - Figura 1:
 
